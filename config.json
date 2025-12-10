@@ -1,5 +1,6 @@
 {
     "appName":"ProjetManager",
-    "version":"1.0.0",
-    "env":"development"
+    "version":"1.1.0",
+    "env":"development",
+    "theme":"light"
 }
